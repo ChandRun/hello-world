@@ -1,2 +1,3 @@
 # hello-world
-just another repository 
+ChandRun is born to Run and Code!
+He touches the sky with Glory!
